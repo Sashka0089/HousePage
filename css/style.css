@@ -390,7 +390,7 @@ body {
 }
 
 .collection {
-  background: url("/img/collection/fon.png") 0 0 no-repeat;
+  background: url("../img/collection/fon.png") 0 0 no-repeat;
   background-size: cover;
 }
 .collection__content {
@@ -433,7 +433,7 @@ body {
 }
 @media screen and (max-width: 1200px) {
   .collection {
-    background: url("/img/collection/fon920px.png") 0 0 no-repeat;
+    background: url("../img/collection/fon920px.png") 0 0 no-repeat;
     background-size: cover;
   }
 }
